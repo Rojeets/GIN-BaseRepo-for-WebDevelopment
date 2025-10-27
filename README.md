@@ -1,6 +1,5 @@
 Here’s the full `README.md` formatted entirely in Markdown for your Gin base repository:
 
-````markdown
 # Go Gin Base Repository
 
 A **base repository** for web development using the **Gin framework** in Go. This project provides a clean and modular structure for building web applications, including controllers, models, services, routes, configuration, and utilities.
@@ -51,7 +50,6 @@ A **base repository** for web development using the **Gin framework** in Go. Thi
 └── utils
 ````
 
----
 
 ## Requirements
 
